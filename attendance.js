@@ -10,3 +10,5 @@ if(attendance_result==1) {
 } else {
     console.log("Employee is Absent");
 }
+
+export const attendance_report = attendance_result;
